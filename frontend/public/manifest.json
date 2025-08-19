@@ -1,0 +1,30 @@
+{
+  "short_name": "iSIM Myanmar",
+  "name": "iSIM Myanmar - Professional eSIM Services",
+  "description": "Revolutionary eSIM technology for seamless connectivity across Myanmar",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/svLmsKwr/isim-logo-12-YD0wby5y6-BCx4-Ro2.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/svLmsKwr/isim-logo-12-YD0wby5y6-BCx4-Ro2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.ibb.co/svLmsKwr/isim-logo-12-YD0wby5y6-BCx4-Ro2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#2e70e5",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["telecommunications", "utilities", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}
